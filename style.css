@@ -1,0 +1,11 @@
+.record tr th{
+    background-color: black;
+    border: 1px solid #fff;
+
+    color: white;
+    padding-left: 10px;
+}
+.record tr td{
+    border: 1px solid #000;
+    padding-left: 10px;
+}
